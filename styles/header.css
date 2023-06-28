@@ -8,3 +8,8 @@
         
         display: inline-block;
 }
+
+.container{
+        display: flex;
+        justify-content: center;
+}
